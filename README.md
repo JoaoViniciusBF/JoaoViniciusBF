@@ -42,8 +42,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaq111&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaq111&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoViniciusBF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoViniciusBF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
 
@@ -52,7 +52,7 @@
 ### 🔥 Contribuições
 
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=Joaq111&theme=tokyonight"/>
+  <img width="55%" src="https://streak-stats.demolab.com?user=JoaoViniciusBF&theme=tokyonight"/>
 </p>
 
 ---
